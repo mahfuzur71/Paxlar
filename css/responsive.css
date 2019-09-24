@@ -1,0 +1,444 @@
+@media(max-width: 1199px){
+.logo a img {
+    max-width: 140px;
+}
+.menu ul li {
+    padding-left: 3px;
+    padding-right: 3px;
+}
+.support2 span {
+    left: 125px;
+}
+.support5 span {
+    left: 125px;
+}
+.form-group input {
+    padding-right: 2em;
+}
+
+}
+
+/*@media(max-width: 991px)*/
+
+@media(max-width: 991px){
+	.color{
+	color:#ff9b1a;
+}
+.color i{
+	font-size: 25px;
+}
+.navbar-toggler{
+	border:1px solid #ff9b1a;
+	
+}
+.menu ul {
+    padding-top: 35px;
+}
+.join_now {
+    padding-top: 10px;
+}
+.join_now a {
+    max-width: 100px;
+    text-align: center;
+}
+.user_id:hover {
+    background-size: 100% 100%;
+}
+.iphone img:first-child {
+    width: 210px;
+}
+.iphone_logo {
+    bottom: 155px;
+    left: 80px;
+    width: 135px;
+}
+.iphone_content .heading h4 {
+    font-size: 16px;
+    padding-top: 59px;
+    padding-bottom: 7PX;
+}
+.wallet {
+    padding-top: 30px;
+    display: flex;
+}
+.wallet span {
+    width: 35px;
+    height: 35px;
+}
+.wallet h5 {
+    font-size: 18px;
+}
+.wallet p {
+    font-size: 11px;
+}
+.support2 span {
+    left: 55px !important;
+}
+.support5 span {
+    left: 55px !important;
+}
+.blog_box i {
+    width: 38px;
+    height: 38px;
+    line-height: 38px;
+    text-align: center;
+    border-radius: 50%;
+    font-size: 12px;
+    transform: translate(4px, -20px);
+}
+.admin {
+    font-size: 12px;
+    transform: translate(-26px, -9px);
+}
+.date {
+    font-size: 13px;
+    transform: translate(-5px, -8px);
+    padding:0;
+}
+.blog_box p {
+    font-size: 14px;
+    padding-left: 13px;
+    margin-bottom: 10px;
+}
+.blog_box h6 {
+    padding-left: 13px;
+    font-size: 12px;
+    padding-bottom: 7px;
+}
+.icon img {
+    max-width: 120px;
+}
+.icon p {
+    font-size: 12px;
+    padding-top: 30px;
+}
+.social li {
+    padding-right: 1px;
+}
+.social li a {
+    width: 34px;
+    height: 34px;
+}
+.contactus h5 {
+    font-size: 15px;
+}
+.contactus span {
+    margin-bottom: 23px;
+}
+.address p {
+    font-size: 12px;
+        margin-bottom: 15px;
+}
+
+.quick_link h5 {
+    font-size: 15px;
+}
+.quick_link span {
+    margin-bottom: 23px;
+}
+.about_us p {
+    font-size: 12px;
+        margin-bottom: 15px;
+}
+.newsletter h5 {
+    font-size: 15px;
+}
+.newsletter span {
+    margin-bottom: 23px;
+}
+.newsletter_content p {
+    font-size: 12px;
+        margin-bottom: 15px;
+}
+.footer_content p {
+    font-size: 12px;
+    padding: 20px 0px;
+}
+.footer_menu ul li a {
+    font-size: 11px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+}
+
+/*@media(max-width: 767px)*/
+
+@media(max-width: 767px){
+	.user_id {
+    padding: 8px 0;
+}
+	.user_id img {
+    max-width: 42px;
+    margin-top: 8px;
+}
+	.user_id h5 {
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 6px;
+}
+.img {
+    height: 75px;
+}
+.user_id p {
+    color: #545454;
+    font-size: 11px;
+    margin: auto;
+}
+
+.short_menu ul li a {
+    padding: 10px 7px;
+}
+.bitcoin img {
+    max-width: 70px;
+}
+.bitcoin h5 {
+    font-size: 16px;
+    padding: 15px 0;
+}
+.bitcoin p {
+    font-size: 11px;
+}
+.view_more {
+    padding-top: 30px;
+}
+.wallet span {
+    width: 30px;
+    height: 30px;
+}
+.iphone_content .heading span {
+    width: 48px;
+    margin: auto;
+}
+.wallet_content {
+    padding-left: 20px;
+}
+.wallet_content {
+    padding-left: 20px;
+}
+.iphone_logo {
+    left: 63px;
+}
+.amount_bg .content h4 {
+    font-size: 25px;
+}
+.amount_bg .content p {
+    font-size: 10px;
+}
+.amount_bg {
+    padding: 15px 0;
+}
+.support1 i {
+    padding-bottom: 22px;
+    padding-right: 40px;
+}
+.support1 span {
+    width: 30px;
+    height: 30px;
+    right: 32px;
+    bottom: 34px;
+}
+.support1 p,.support2 p,.support3 p,.support4 p,.support5 p,.support6 p {
+    font-size: 13px;
+}
+.support2 i {
+    padding-bottom: 22px;
+}
+.support2 span {
+    width: 30px;
+    height: 30px;
+    bottom: 36px;
+    left: 38px !important;
+}
+.support3 i {
+    padding-bottom: 22px;
+    padding-right: 40px;
+}
+.support3 span {
+    width: 30px;
+    height: 30px;
+    right: 33px;
+    bottom: 36px;
+}
+.support4 i {
+    padding-bottom: 22px;
+    padding-right: 40px;
+}
+.support4 span {
+    width: 30px;
+    height: 30px;
+    bottom: 34px;
+    left: 36px;
+}
+.support5 i {
+    padding-bottom: 22px;
+}
+.support5 span {
+    width: 30px;
+    height: 30px;
+    left: 37px !important;
+    bottom: 34px;
+}
+.support6 i {
+    padding-bottom: 22px;
+}
+.support6 span {
+    width: 30px;
+    height: 30px;
+        left: 33px;
+    bottom: 35px;
+}
+.support2,.support5,.support3,.support6 {
+    margin-top: 20px;
+}
+.blog_box i {
+    display: none;
+}
+.admin {
+    font-size: 12px;
+        transform: translate(4px, -3px);
+        padding-left: 0;
+}
+.date {
+    font-size: 12px;
+    transform: translate(17px, -3px);
+}
+.blog_box p {
+    font-size: 12px;
+    padding-left: 5px;
+    margin-bottom: 4px;
+    padding-top: 5px;
+}
+.blog_box h6 {
+    padding-left: 5px;
+    font-size: 10px;
+    padding-bottom: 7px;
+}
+.icon img {
+    max-width: 100px;
+}
+.social li {
+    padding-right: 10px;
+    padding-bottom: 5px;
+}
+.social {
+    padding-top: 5px;
+}
+.quick_link {
+    display: none;
+}
+.about_us {
+    display: none;
+}
+.newsletter {
+    padding-top: 6px;
+}
+.footer_menu{
+	display: none;
+}
+.footer_content p {
+    text-align: center;
+    padding: 10px 0;
+}
+}
+
+/*@media(max-width: 575px)*/
+
+@media(max-width: 575px){
+	.buy_btc {
+    justify-content: center;
+    padding-top: 10px;
+}
+.short_menu {
+    justify-content: center;
+}
+.short_menu ul li {
+    padding: 0 15px;
+}
+.logo {
+    padding-left: 20px;
+}
+.banner_content h1 {
+    font-size: 35px;
+}
+.img {
+    height: 60px;
+}
+.user_id img {
+    max-width: 35px;
+}
+.user_id h5 {
+    font-size: 19px;
+}
+.iphone_logo {
+    left: 48px;
+    width: 135px;
+}
+.wallet span {
+    width: 25px;
+    height: 25px;
+    margin-top: 30px;
+}
+.support1 p,.support2 p,.support3 p,.support4 p,.support5 p,.support6 p {
+    font-size: 12px;
+}
+.support1 span {
+    width: 30px;
+    height: 30px;
+    right: 32px;
+    bottom: 32px;
+}
+.support2 span {
+    width: 30px;
+    height: 30px;
+    bottom: 34px;
+    left: 31px !important;
+}
+.support3 span {
+    width: 30px;
+    height: 30px;
+    right: 33px;
+    bottom: 33px;
+}
+.support4 span {
+    width: 30px;
+    height: 30px;
+    bottom: 32px;
+    left: 36px;
+}
+.support5 span {
+    width: 30px;
+    height: 30px;
+    left: 30px !important;
+    bottom: 50px;
+}
+.support6 span {
+    width: 30px;
+    height: 30px;
+    left: 34px;
+    bottom: 32px;
+}
+form {
+    margin: auto;
+    padding: 0 20px;
+}
+.admin {
+    font-size: 10px;
+}
+.date {
+    font-size: 10px;
+}
+.social li {
+    padding-right: 3px;
+    padding-bottom: 5px;
+}
+.contact_section {
+    padding: 30px 0;
+}
+.icon img {
+    max-width: 80px;
+}
+.menu ul {
+    padding-left: 20px;
+}
+}
